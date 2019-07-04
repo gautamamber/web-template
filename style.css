@@ -1,0 +1,57 @@
+	.footer{
+		background-color:  	#333333;
+	}
+	.row_color{
+		color: #929292;
+	}
+	.navbar_backgroud{
+		background-color: white;
+	}
+	.navbar_color{
+		color: black;
+		font-size: 20px;
+	}
+	.logo_margin{
+		margin-top: 10px;
+	}
+	.top{
+		text-align: right;
+		background-color: #0E3975;
+		color: white;
+	}
+	.nav_button{
+		background-color: black
+	}
+	.news{
+		margin-top: 20px;
+		margin-bottom: 20px;
+	}
+	.date{
+		background-color: #E4EBEB;
+	}
+	.upadte{
+		font-size : 11px;
+		background-color: #FFFCAD;
+	}
+	.upadte_newcolor{
+		font-size : 11px;
+		background-color: #57D57F;
+	}
+	.update_text{
+		font-size: 13px;
+	}
+	.client{
+		background-image: url("images.jpeg");
+	}
+	.client_margin{
+		margin-top: 100px;
+	}
+	.client_margin_bottom{
+		margin-bottom: 100px;
+	}
+	.box{
+  background-color: lightgrey;
+  width: 500px; 
+  padding: 50px;
+  margin: 20px;
+}
